@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💻 ¡Hola, soy Fabián! 👋
 
-<!--
-**alu0101549491/alu0101549491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática en la Universidad de La Laguna (ULL).  
+🚀 Apasionado por la programación, los algoritmos y el desarrollo de software.  
+💡 Siempre aprendiendo y explorando nuevas tecnologías.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y herramientas
+- 🐍 Python | C++
+- 🌐 JavaScript
+- 🛢️ Oracle SQL
+- 🖥️ Linux | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+- 🚗 **[Turing Machine Simulator](https://github.com/alu0101549491/Turing-Machine-Simulator)** → Simulador de Máquinas de Turing en C++.
+- 🤖 **[Matrix Multiplication](https://github.com/alu0101549491/Matrix-Multiplication)** → Programa para el análisis del algoritmo de multiplicación de matrices en C++.
+
+## 📫 ¿Cómo contactarme?
+📩 [Correo](mailto:alu0101549491@ull.edu.es)  
+
+---
+
+¡Echa un vistazo a mis repositorios y colaboremos en algo interesante! 🚀
