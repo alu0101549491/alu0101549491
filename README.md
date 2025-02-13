@@ -5,7 +5,7 @@
 💡 Siempre aprendiendo y explorando nuevas tecnologías.
 
 ## 🔧 Tecnologías y herramientas
-- 🐍 Python | C++
+- 🐍 Python | Ruby | C++
 - 🌐 JavaScript
 - 🛢️ Oracle SQL
 - 🖥️ Linux | Git
