@@ -1,22 +1,25 @@
-# 💻 ¡Hola, soy Fabián! 👋
+# 💻 Hi, I'm Fabián! 👋
 
-🎓 Estudiante de Ingeniería Informática en la Universidad de La Laguna (ULL).  
-🚀 Apasionado por la programación, los algoritmos y el desarrollo de software.  
-💡 Siempre aprendiendo y explorando nuevas tecnologías.
+🎓 Computer Engineering student at the University of La Laguna (ULL).
+🚀 Passionate about programming, algorithms, and software development.
+💡 Always learning and exploring new technologies.
 
-## 🔧 Tecnologías y herramientas
-- 🐍 Python | Ruby | C++
-- 🌐 JavaScript
-- 🛢️ Oracle SQL
-- 🖥️ Linux | Git
+## 🔧 Technologies and Tools
 
-## 📌 Proyectos Destacados
-- 🚗 **[Turing Machine Simulator](https://github.com/alu0101549491/Turing-Machine-Simulator)** → Simulador de Máquinas de Turing en C++.
-- 🤖 **[Matrix Multiplication](https://github.com/alu0101549491/Matrix-Multiplication)** → Programa para el análisis del algoritmo de multiplicación de matrices en C++.
+* 🐍 Python | Ruby | C++
+* 🌐 JavaScript | TypeScript
+* 🛢️ Oracle SQL
+* 🖥️ Linux | Git
 
-## 📫 ¿Cómo contactarme?
-📩 [Correo](mailto:alu0101549491@ull.edu.es)  
+## 📌 Featured Projects
+
+* 🚗 **[My Final Project](https://github.com/alu0101549491/TFG-Fabian-Gonzalez-Lence)** → Analysis of AI Capabilities in the Semi-Automatic Generation of Full-Stack Applications.
+* 🤖 **[Destroy the Loop](https://github.com/EricRios-commits/ProyectoInterfaces)** → VR game prototype developed for Meta Quest 2.
+
+## 📫 How to contact me
+
+📩 [Email](mailto:alu0101549491@ull.edu.es)
 
 ---
 
-¡Echa un vistazo a mis repositorios y colaboremos en algo interesante! 🚀
+Take a look at my repositories and let's collaborate on something interesting! 🚀
