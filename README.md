@@ -13,8 +13,8 @@
 
 ## 📌 Featured Projects
 
-* 🚗 **[My Final Project](https://github.com/alu0101549491/TFG-Fabian-Gonzalez-Lence)** → Analysis of AI Capabilities in the Semi-Automatic Generation of Full-Stack Applications.
-* 🤖 **[Destroy the Loop](https://github.com/EricRios-commits/ProyectoInterfaces)** → VR game prototype developed for Meta Quest 2.
+* 📊 **[My Final Project](https://github.com/alu0101549491/TFG-Fabian-Gonzalez-Lence)** → Analysis of AI Capabilities in the Semi-Automatic Generation of Full-Stack Applications.
+* 🕶️ **[Destroy the Loop](https://github.com/EricRios-commits/ProyectoInterfaces)** → VR game prototype developed for Meta Quest 2.
 
 ## 📫 How to contact me
 
